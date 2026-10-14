@@ -1,0 +1,21 @@
+﻿
+# Game files and generated output
+originals/
+references/
+builds/
+extracted/
+*.gba
+*.sav
+*.srm
+*.ss*
+*.state*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
